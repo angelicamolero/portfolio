@@ -718,6 +718,10 @@ footer{
     width: 335px;
   }
 
+  .services h1{
+    font-size: 40px;
+  }
+
   .icons {
     margin-right: initial;
     margin-left: 20px;
